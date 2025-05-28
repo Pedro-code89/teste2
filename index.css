@@ -1,0 +1,29 @@
+<style>@import url("https://fonts.googleapis.com/css2?family=Ancizar+Serif:ital,wght@0,300..900;1,300..900&display=swap");
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: "Ancizar Serif";
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.caixa {
+  text-align: center;
+  border: none;
+}
+.itens {
+  text-align: center;
+}
+.container {
+  text-align: center;
+}
+body {
+  background-image: url(https://png.pngtree.com/back_origin_pic/04/08/13/9b06456f7c6fd78bff0c93471350302e.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}</style>
